@@ -1,8 +1,7 @@
 [![MasterHead](https://github.com/marofrahman/marofrahman/assets/134495772/073db8ea-f767-4b59-8571-f0dbe1c665ee)
 ](https://github.com/marofrahman)
 
-### Hi there 👋
-## This is my portfolio displaying past and current projects.
+### Feel free to explore the repositories, comprising manily of my data analytics projects.
 
 <!--
 **marofrahman/marofrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
