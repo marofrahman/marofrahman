@@ -1,5 +1,5 @@
-[![MasterHead]((https://github.com/marofrahman/marofrahman/assets/134495772/007f3608-7df1-4383-93cf-d526c662dfc8)
-)]([your GitHub link](https://github.com/marofrahman))
+[![MasterHead](https://github.com/marofrahman/marofrahman/assets/134495772/073db8ea-f767-4b59-8571-f0dbe1c665ee)
+](https://github.com/marofrahman)
 
 ### Hi there 👋
 ## This is my portfolio displaying past and current projects.
