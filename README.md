@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://github.com/marofrahman/marofrahman/assets/134495772/007f3608-7df1-4383-93cf-d526c662dfc8)
+[![MasterHead]((https://github.com/marofrahman/marofrahman/assets/134495772/007f3608-7df1-4383-93cf-d526c662dfc8)
 )]([your GitHub link](https://github.com/marofrahman))
 
 ### Hi there 👋
